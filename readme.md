@@ -1,4 +1,4 @@
-##                     Homework 7
+##                     Homework 7   - Docker and Python
 This repository contains the dependencies and code for Homework 7 combining Docker with Python program that generates a QR code PNG file that points to my GitHub repository.
 
 ###Project Setup
