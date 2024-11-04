@@ -4,8 +4,11 @@ This repository contains the dependencies and code for Homework 7 combining Dock
 ###Project Setup
 
   On cloning the repository, please run
+  
   docker build -t qrcode .
+  
   docker run --name my_qrcode -e QR_CODE_DIR=test -v .:/app  qrcode --url "https://github.com/mallikakasi"
+  
 
 ### Generated a QR code that points to my GitHub repository , Given below MY QRCODE IMAGE 
 
